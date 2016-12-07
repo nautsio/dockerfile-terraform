@@ -1,4 +1,4 @@
-FROM hashicorp/terraform:0.7.0
+FROM hashicorp/terraform:0.7.9
 
 ENV TERRAFORM_PROVIDER_LOCALFILE_VERSION v0.1
 
